@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0ecafebd-2deb-4dc9-808f-b50586fd1a11",
+    "prompt": "Evaluate Montelukast for new respiratory indications and innovation opportunities",
+    "molecule": "Montelukast",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "1da53c8c-2578-4536-8f62-8089e24deb43",
+    "prompt": "Evaluate Montelukast for respiratory innovation",
+    "molecule": "Montelukast",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "60e91eed-dd65-4581-945e-ad4fc85c43f9",
+    "prompt": "Evaluate DrugX for respiratory innovation",
+    "molecule": "DrugX",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "85d72f17-7529-439c-811d-b83103508b47",
+    "prompt": "Evaluate Montelukast for respiratory repurposing opportunities",
+    "molecule": "Montelukast",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "db93c3cc-c731-4699-b876-0bdcce760bd3",
+    "prompt": "Evaluate DrugX for high unmet need in respiratory indications",
+    "molecule": "DrugX",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "3ae46a6a-fb68-41be-9a51-556825060180",
+    "prompt": "Evaluate DrugY for chronic cough and COPD opportunities",
+    "molecule": "DrugY",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "32d42cae-1f4d-43ed-bc46-dee96ece87af",
+    "prompt": "Evaluate Montelukast for new respiratory indications and innovation opportunities",
+    "molecule": "Montelukast",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "8f52e62f-9ac6-4cb2-a30a-302c8ebe6b0d",
+    "prompt": "Evaluate Montelukast for respiratory innovation",
+    "molecule": "Montelukast",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "c7519e88-c3b6-480e-a0aa-64e976f3aeef",
+    "prompt": "Evaluate DrugX for respiratory innovation",
+    "molecule": "DrugX",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "a1e38844-2b18-4259-a916-c1a6a4126919",
+    "prompt": "Evaluate Montelukast for respiratory repurposing opportunities",
+    "molecule": "Montelukast",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "78c4a6ff-a028-43ab-8b65-d0b5ffd19bfe",
+    "prompt": "Evaluate DrugX for high unmet need in respiratory indications",
+    "molecule": "DrugX",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "097fe72b-7ed6-4d4f-bcfc-ee9efb554384",
+    "prompt": "Evaluate DrugY for chronic cough and COPD opportunities",
+    "molecule": "DrugY",
+    "decision": "GO",
+    "overall_score": 82.25
+  },
+  {
+    "id": "9d4aa5c6-bdbf-43f5-9187-98c90e4be17f",
+    "prompt": "Evaluate Montelukast for new respiratory indications and innovation opportunities",
+    "molecule": "Montelukast",
+    "decision": "GO",
+    "overall_score": 82.25
+  }
+]
