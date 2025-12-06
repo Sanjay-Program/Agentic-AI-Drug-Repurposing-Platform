@@ -1,5 +1,5 @@
 # 🚀 Agentic AI Platform for Drug Repurposing  
-### **Team SynergyX — EY Techathon 6.0 (Round 2 Submission)**  
+### **EY Techathon 6.0 (Round 2 Submission)**  
 
 **Team Members:**  
 - 👩‍💼 **Gayathiri Botlagunta** — *Team Leader*  
